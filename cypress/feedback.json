@@ -1,0 +1,10 @@
+{
+    "testData": "pip",
+    "name": "Kostya",
+    "email": "darumaqatest@gmail.com",
+    "website": "https://www.saucedemo.com/",
+    "tsc1": "first testcase",
+    "tsc2": "second testcase",
+    "tsc3": "third testcase"
+
+  }
